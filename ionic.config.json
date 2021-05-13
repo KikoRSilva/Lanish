@@ -1,0 +1,7 @@
+{
+  "name": "Lanish",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
