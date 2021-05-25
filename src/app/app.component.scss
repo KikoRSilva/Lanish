@@ -1,0 +1,10 @@
+@font-face {
+  font-family: AppFont;
+  src: url("/assets/fonts/Saira-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: ‘AppFont’ !important;
+}
